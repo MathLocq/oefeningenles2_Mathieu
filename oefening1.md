@@ -1,9 +1,9 @@
-##Heading 2
+## Heading 2
 
-Tekst in **vet**
+Tekst in **vet**  
 Tekst in _italic_
 
-#opsomming genummerd
+# opsomming genummerd
 
 1. een
 2. twee
